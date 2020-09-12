@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 </br>
 
 
-[website]: 
-[youtube]: 
-[instagram]: 
-[linkedin]:https://www.linkedin.com/in/mazharsayed/
+
+[linkedin] : https://www.linkedin.com/in/mazharsayed/
 
