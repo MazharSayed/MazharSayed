@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="MazharSayed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MazharSayed | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<a href="https://www.linkedin.com/in/mazharsayed/" class="social-icon si-rounded si-small si-linkedin">
-    <i class="icon-linkedin"></i>
-    <i class="icon-linkedin"></i>
- </a>
+[<img src="https://www.exclaimer.com/content/images/twitter-35x35.gif" alt="Twitter Icon" /></a>]
 [<img align="left" alt="MazharSayed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
