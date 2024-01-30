@@ -31,9 +31,9 @@ Here are some details to get to know me:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Laravel" width="26px" src="https://laravel.com/img/logomark.min.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MySQL Workbench" width="28px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<img align="left" alt="phpMyAdmin" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png?20161018133302" />
-<img align="left" alt="Sublime Text" width="28px" src="https://w7.pngwing.com/pngs/931/274/png-transparent-sublime-text-computer-icons-plain-text-world-wide-web-text-logo-sign.png" />
+<img align="left" alt="MySQL Workbench" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+<img align="left" alt="phpMyAdmin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png?20161018133302" />
+<img align="left" alt="Sublime Text" width="32px" src="https://w7.pngwing.com/pngs/931/274/png-transparent-sublime-text-computer-icons-plain-text-world-wide-web-text-logo-sign.png" />
 
 </br>
 
