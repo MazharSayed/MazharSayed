@@ -38,7 +38,7 @@ Here are some details to get to know me:
 </br>
 
 ### Operating System:
-<img align="left" alt="Windows" width="25%" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-mygalaxy-view-singularlogic-6.png" />
+<img align="left" alt="Windows" width="10%" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-mygalaxy-view-singularlogic-6.png" />
 <img align="left" alt="SQL Database" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" />
 
 </br>
