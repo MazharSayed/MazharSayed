@@ -28,6 +28,10 @@ Here are some details to get to know me:
 <img align="left" alt="Symfony" width="26px" src="https://symfony.com/logos/symfony_black_03.png" />
 [![Docker](https://i.imgur.com/your_docker_image.png)](https://www.docker.com/)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)](https://www.docker.com/)
+
+[![Spryker Logo](https://spryker.com/wp-content/uploads/2021/08/spryker_logo_red.svg)](https://spryker.com/)
+
 </br>
 
 
