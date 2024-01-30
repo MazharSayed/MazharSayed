@@ -3,11 +3,17 @@ Hi, I'm Mazhar! 👋
 Here are some details to get to know me:
 
 🔭 I'm currently working with PHP.
+
 🔭 I specialize in the Laravel Framework.
+
 🌱 I'm currently diving into JavaScript Frameworks.
+
 👯 I'm open to collaborations in the field of Web Development.
+
 🥅 2024 Goals: Contribute more to Open Source projects.
+
 😄 Pronouns: He/His
+
 ⚡ Fun fact: I enjoy the process of learning new things.
 
 
