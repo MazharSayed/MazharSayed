@@ -2,6 +2,8 @@ Hi, I'm Mazhar! 👋
 
 Here are some details to get to know me:
 
+😄 Pronouns: He/His
+
 🔭 I'm currently working with PHP.
 
 🔭 I specialize in the Laravel Framework.
@@ -11,8 +13,6 @@ Here are some details to get to know me:
 👯 I'm open to collaborations in the field of Web Development.
 
 🥅 2024 Goals: Contribute more to Open Source projects.
-
-😄 Pronouns: He/His
 
 ⚡ Fun fact: I enjoy the process of learning new things.
 
@@ -39,6 +39,6 @@ Here are some details to get to know me:
 
 ### Operating System:
 <img align="left" alt="Windows" width="10%" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-mygalaxy-view-singularlogic-6.png" />
-<img align="left" alt="SQL Database" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" />
+<img align="left" alt="MAC" width="10%" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-mygalaxy-view-singularlogic-6.png" />
 
 </br>
