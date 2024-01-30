@@ -22,8 +22,7 @@ Here are some details to get to know me:
 
 ### Database:
 <img align="left" alt="MySQL Database" width="28px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<img align="left" alt="SQL Database" width="28px" src="images-are-download-crazypng-21.png" />
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" />
+<img align="left" alt="SQL Database" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" />
 </br>
 
 ### Languages, Framework, and Tools:
