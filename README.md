@@ -20,12 +20,6 @@ Here are some details to get to know me:
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazharsayed/)
 
-### Database:
-<img align="left" alt="MySQL Database" width="28px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<img align="left" alt="SQL Database" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" />
-
-</br>
-
 ### Languages, Framework, and Tools:
 <img align="left" alt="PHP" width="28px" src="http://pngimg.com/uploads/php/php_PNG7.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -37,6 +31,8 @@ Here are some details to get to know me:
 
 </br>
 
+### Database:
+<img align="left" alt="MySQL Database" width="28px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+<img align="left" alt="SQL Database" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" />
 
-
-
+</br>
