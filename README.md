@@ -40,5 +40,5 @@ Here are some details to get to know me:
 ### Operating System:
 <img align="left" alt="Windows" width="10%" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-mygalaxy-view-singularlogic-6.png" />
 <img align="left" alt="MAC" width="25px" src="https://cdn-icons-png.flaticon.com/512/2/2235.png" />
-<img align="left" alt="MAC" width="25px" src="https://1000logos.net/wp-content/uploads/2023/04/Ubuntu-logo.png" />
+<img align="left" alt="MAC" width="10%" src="https://1000logos.net/wp-content/uploads/2023/04/Ubuntu-logo.png" />
 </br>
