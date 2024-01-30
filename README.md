@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 
 
 ### Connect with me:
-[<a href="https://www.linkedin.com/in/mazharsayed/" target="_blank"><img align="left" alt="" width="22px" src="https://example.com/linkedin-icon.png" /></a>]
-<br />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazharsayed/)
 
 ### Languages and Tools:
 
