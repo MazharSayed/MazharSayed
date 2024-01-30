@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Development
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: learing new things.
+- ⚡ Fun fact: learning new things.
 
 
 ### Connect with me:
