@@ -4,7 +4,7 @@ Here are some details to get to know me:
 
 😄 Pronouns: He/His
 
-🔭 I'm currently working with PHP.
+🔭 I'm currently working with PHP Framework.
 
 🔭 I specialize in the Laravel Framework.
 
