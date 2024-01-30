@@ -1,14 +1,13 @@
-### Hi I'm [Mazhar!]👋
+Hi, I'm Mazhar! 👋
+Here are some details to get to know me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on PHP
-- 🔭 I’m currently working on Laravel Framework
-- 🌱 I’m currently learning Javascript Frameworks
-- 👯 I’m looking to collaborate on Web Development
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: learning new things.
+🔭 I'm currently working with PHP.
+🔭 I specialize in the Laravel Framework.
+🌱 I'm currently diving into JavaScript Frameworks.
+👯 I'm open to collaborations in the field of Web Development.
+🥅 2024 Goals: Contribute more to Open Source projects.
+😄 Pronouns: He/His
+⚡ Fun fact: I enjoy the process of learning new things.
 
 
 ### Connect with me:
