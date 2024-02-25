@@ -26,7 +26,7 @@ Here are some details to get to know me:
 <img align="left" alt="MySQL Workbench" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="phpMyAdmin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png?20161018133302" />
 <img align="left" alt="Sublime Text" width="32px" src="https://w7.pngwing.com/pngs/931/274/png-transparent-sublime-text-computer-icons-plain-text-world-wide-web-text-logo-sign.png" />
-<img align="left" alt="Sublime Text" width="32px" src="https://1000logos.net/wp-content/uploads/2021/05/Jira-logo.png" />
+<img align="left" alt="Sublime Text" width="40px" src="https://1000logos.net/wp-content/uploads/2021/05/Jira-logo.png" />
 
 </br>
 
